@@ -45,7 +45,7 @@ ___
 1. Item 3
 
 <!-- Inline Code Block -->
-`<p>This is a paragraph</p>`
+`#include<iostream>`
 
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
@@ -53,10 +53,9 @@ ___
 <!-- Github Markdown -->
 
 <!-- Code Blocks -->
-```bash
-  npm install
-
-  npm start
+```python
+def add(num1,num2):
+    return num1+num2
 ```
 
 ```javascript
@@ -65,10 +64,6 @@ ___
   }
 ```
 
-```python
-  def add(num1, num2):
-    return num1 + num2
-```
 
 <!-- Tables -->
 | Name     | Email          |
