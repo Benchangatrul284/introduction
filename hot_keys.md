@@ -1,10 +1,30 @@
 # HOT KEYS
 
+
 ## General
 * **open keyboard as mouse** Shift(long)+Alt(short)
+* **Close window** Ctrl+Shift+W
+* **Minimize all windows to show desktop** Ctrl + Alt + D
+* **Maximize window** Ctrl + Uparrow
+
+## Chrome
+* **last page** Alt+ ← 
+* **reload page** Ctrl+R
+* **Open a new window**	Ctrl + N
+* **Open a new window in Incognito mode** Ctrl + Shift + N
+* **Open a new tab** Ctrl + T
+* **Reopen previously closed tabs** Ctrl + Shift + T
+* **Jump to the next open tab**	Ctrl + Tab
+* **Jump to the previous open tab**	Ctrl + Shift + Tab or Ctrl + PgUp
+* **Jump to the rightmost tab**	Ctrl + 9
+* **Close the current tab**	Ctrl + W
+* **Search bar** Ctrl + L
+
 ## vs code
-## **FOR MORE INFROMATION PRESS** Ctrl+K Ctrl+S
+*FOR MORE INFROMATION PRESS* Ctrl+K Ctrl+S
+
 ### General
+
 * **Show command Palette** Ctrl+Shift+P
 * **Go to File in the same directory** Ctrl+P
 * **Close window/instance** Ctrl+W
