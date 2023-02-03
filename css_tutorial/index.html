@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    p {
+    color: red;
+    text-align: center;
+    }
+    body {
+        background-color: black;
+        color: aliceblue;
+    }
+
+    #selected_by_id {
+        font-size: 20px;
+    }
+    .selected_by_class {
+        font-size: 20px;
+        font-style: italic;
+    }
+    /* only p with class center will by effected */
+    p.center {
+    text-align: center;
+    color: red;
+    }
+    div.center {
+        text-align: left;
+        color: wheat;
+        font-size: 20px;
+    }
+    /*Universal selector  */
+    * {
+        color: aliceblue;
+    }
+    /* Group selector */
+    h1, h2, p {
+    text-align: center;
+    color: red;
+    }
+    </style>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Decorated by external css file</h1>
+    <div id="selected_by_id">I am white</div>
+    <div class="selected_by_class">Selected by class</div>
+    <div class="center large">Refer more than one class</div>
+    <p>Hello World!</p>
+    <p>These paragraphs are styled with CSS.</p>
+
+</body>
+</html>
