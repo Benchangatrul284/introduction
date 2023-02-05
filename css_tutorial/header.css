@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    background-color: black;
+    color: #f1eeee;
+    /* Set the margin for all four sides to 0 pixels: */
+}
+    /* Style the header */
+.header {
+    background-color: #f1eeee;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}

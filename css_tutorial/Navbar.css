@@ -1,0 +1,26 @@
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  width: 100%;
+  height: 50px;  
+  background-color: rgb(89, 139, 139);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  position: relative;
+  display: block;
+  color: #171515;
+  text-align: center;
+  width: 33.33%;
+  padding: 14px 0px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: rgb(93, 106, 215);
+}
